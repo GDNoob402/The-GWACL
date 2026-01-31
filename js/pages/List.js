@@ -100,16 +100,16 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, Turbowarp is allowed, up to 250fps)
+                        Any Fps is allowed
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level link ID before you submit a record
+                        Level must be harder than the level at the lowest spot
                     </p>
                     <p>
                         If you are going to submit a Record make sure to have the record on video and make it public
                     </p>
                     <p>
-                        When submitting record you must state (if you are using revamped) what fps you used while getting the record
+                        You must state what fps you use
                     </p>
                     <p>
                         When submitting a level It must be physically possible or able to be done legitimatley
