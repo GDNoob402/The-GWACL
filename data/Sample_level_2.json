@@ -1,24 +1,8 @@
+{ "id": 78145485, "name": "Final Neiron?", "author": "MrArmYT", "creators": ["MrArmYT"], "verifier": "Puremidnight", "verification": "https://www.youtube.com/watch?v=OJz12rd4o-o", "percentToQualify": "100", "password": "None", "records": [ ] }
+
+
 {
     "id": 78145485,
     "name": "Final Neiron?",
     "author": "MrArmYT",
-    "creators": ["MrArmYT"],
-    "verifier": "Puremidnight",
-    "verification": "https://www.youtube.com/watch?v=OJz12rd4o-o",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "null",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_victor_3",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120,
-        }
-    ]
-}
+
