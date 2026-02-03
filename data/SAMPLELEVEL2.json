@@ -1,24 +1,12 @@
 {
-    "id": 1087262570,
-    "name": "Femboy Circles II",
-    "author": "GD_Noob",
-    "creators": ["GD_Noob"],
-    "verifier": "None",
-    "Showcase": "https://www.youtube.com/watch?v=vnX-X2R0B8U",
+    "id": 57436521,
+    "name": "SAMPLELEVEL2",
+    "author": "Solo_Creator",
+    "creators": [],
+    "verifier": "Solo_Creator",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "Free To Copy",
     "records": [
-        {
-            "user": "null",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }, 
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
