@@ -115,7 +115,7 @@ export default {
                         No secret ways
                     </p>
                     <p>
-                        If you have any problems dm me on discord: yungwilx
+                        If you beat one part of a level you can cut the rest of that level off and leave it as a challenge that is verified
                     </p>
                     <p>
                         Level CAN NOT be over 12cps
