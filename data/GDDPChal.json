@@ -1,12 +1,12 @@
 {
-    "id": 63261920,
-    "name": "VHChallenge",
-    "author": "DeltonaX",
-    "creators": ["DeltonaX"],
+    "id": 79855752
+    "name": "GDDP Challenge",
+    "author": "aespha2",
+    "creators": ["aespha2"],
     "verifier": "BLJBroken",
     "verification": "https://www.youtube.com/watch?v=K3Q64bOEy14&t",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "",
     "records": [
         {
             "user": "antawng2",
