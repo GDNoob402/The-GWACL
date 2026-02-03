@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">WR</div>
-                            <p>{{ level.WR || 'FPS' }}</p>
+                            <p>{{ level.FPS || 'FPS' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
