@@ -1,5 +1,5 @@
 {
-    "id": 79855752
+    "id": 79855752,
     "name": "GDDP Challenge",
     "author": "aespha2",
     "creators": [1],
@@ -12,7 +12,13 @@
             "user": "antawng2",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 60
+            "hz": 360
+        },
+        {
+            "user": "",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
