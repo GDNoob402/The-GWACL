@@ -106,7 +106,7 @@ export default {
                         Level must be harder than the level at the lowest spot
                     </p>
                     <p>
-                        Make sure to show the attempt before the completion
+                        Make sure to show the attempt before the completion, and must have clicks
                     </p>
                     <p>
                         You must state what fps you use
