@@ -118,7 +118,7 @@ export default {
                         If you have any problems dm me on discord: yungwilx
                     </p>
                     <p>
-                        Join the discord to submit records
+                        Level CAN NOT be over 12cps
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
