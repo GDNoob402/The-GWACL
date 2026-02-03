@@ -1,13 +1,13 @@
 [
     {
-        "role": "owner","Puremidnight",
-        "name": "List Owner","Puremidnight",
-        "link": "https://www.youtube.com/@Puremidnight"
+        "role": "owner",
+        "name": "List Owner",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "admin","Squeeg",
+        "role": "admin",
         "name": "List Admin",
-        "link": "https://www.youtube.com/@squeeg-gaming"
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "helper",
@@ -25,3 +25,4 @@
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
+
