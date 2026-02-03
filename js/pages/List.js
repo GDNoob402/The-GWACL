@@ -100,25 +100,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Any Fps is allowed
+                        Level MUST be under 30 seconds
                     </p>
                     <p>
                         Level must be harder than the level at the lowest spot
                     </p>
                     <p>
-                        If you are going to submit a Record make sure to have the record on video and make it public
+                        Make sure to show the attempt before the completion
                     </p>
                     <p>
                         You must state what fps you use
                     </p>
                     <p>
-                        When submitting a level It must be physically possible or able to be done legitimatley
+                        No secret ways
                     </p>
                     <p>
-                        Level does not have to be verified
+                        If you have any problems dm me on discord: yungwilx
                     </p>
                     <p>
-                        Level can not have any secret ways
+                        Join the discord to submit records
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
