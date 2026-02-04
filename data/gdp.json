@@ -9,10 +9,11 @@
     "password": "none",
     "records": [
             },
-         {
+         
             "user": "GDNobrain",
             "link": "https://www.youtube.com/watch?v=wpmSluzS4k4",
             "percent": 100,
             "hz": 360
+       }
     ]
 }
