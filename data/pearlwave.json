@@ -1,0 +1,18 @@
+{
+    "id": 84861114,
+    "name": "Pearl Wave",
+    "author": "johdanlop",
+    "creators": ["1"],
+    "verifier": "Puremidnight",
+    "verification": "https://www.youtube.com/watch?v=0Lgu35ycpl8",
+    "percentToQualify": "100",
+    "password": "46290",
+    "records": [
+            {
+            "user": "BLJBroken",
+            "link": "https://www.youtube.com/watch?v=fiEgO9d1E64",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
