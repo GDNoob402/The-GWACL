@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "GDNobrain",
+            "link": "https://www.youtube.com/watch?v=DRbU5xQCIDc",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
