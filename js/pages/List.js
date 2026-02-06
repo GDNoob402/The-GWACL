@@ -121,7 +121,7 @@ export default {
                         If you beat one part of a level you can cut the rest of that level off and leave it as a challenge that is verified, same goes with beating that part of the level, like a challenge swap
                     </p>
                     <p>
-                        Level CAN NOT be over 12cps
+                        Level CAN NOT be over 14cps
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
