@@ -103,7 +103,7 @@ export default {
                         Level MUST be under 30 seconds
                     </p>
                     <p>
-                        Level must be harder than the level at #20 spot
+                        Level must be harder than the level at the lowest spot
                     </p>
                     <p>
                         No innapropriate or nsfw levels & videos
