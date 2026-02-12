@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+          {
+            "user": "GDNobrain",
+            "link": "https://youtu.be/rVkV3CFutUs",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
