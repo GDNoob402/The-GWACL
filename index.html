@@ -76,3 +76,16 @@
         <router-view :class="{ dark: store.dark }"></router-view>
     </body>
 </html>
+<input type="text" id="searchBox" placeholder="Search this page...">
+
+<script>
+document.getElementById("searchBox").addEventListener("input", function () {
+  const text = this.value.toLowerCase();
+  const page = document.body.innerText.toLowerCase();
+
+  if (text && !page.includes(text)) {
+    alert("No matches found");
+  }
+});
+</script>
+
