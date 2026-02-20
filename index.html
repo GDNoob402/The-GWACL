@@ -75,5 +75,47 @@
         </header>
         <router-view :class="{ dark: store.dark }"></router-view>
     </body>
+    <script>
+window.addEventListener("load", () => {
+  const search = document.createElement("input");
+  search.type = "text";
+  search.placeholder = "Search by level name...";
+
+  // 📍 Position
+  search.style.position = "fixed";
+  search.style.top = "20px";
+  search.style.left = "50%";
+  search.style.transform = "translateX(-50%)";
+  search.style.zIndex = "9999";
+
+  // 🎨 Style (dark, glowing, rounded)
+  search.style.width = "320px";
+  search.style.padding = "12px 16px";
+  search.style.fontSize = "15px";
+  search.style.color = "#fff";
+  search.style.background =
+    "linear-gradient(180deg, #1c1f26, #0f1115)";
+  search.style.border = "1px solid #3a3f4b";
+  search.style.borderRadius = "10px";
+  search.style.outline = "none";
+  search.style.boxShadow =
+    "0 0 0 1px rgba(255,255,255,0.05), 0 8px 30px rgba(0,0,0,0.6)";
+
+  // ✨ Focus glow
+  search.addEventListener("focus", () => {
+    search.style.borderColor = "#7aa2ff";
+    search.style.boxShadow =
+      "0 0 0 2px rgba(122,162,255,0.4)";
+  });
+
+  search.addEventListener("blur", () => {
+    search.style.borderColor = "#3a3f4b";
+    search.style.boxShadow =
+      "0 0 0 1px rgba(255,255,255,0.05), 0 8px 30px rgba(0,0,0,0.6)";
+  });
+
+  document.body.appendChild(search);
+});
+</script>
     </html>
 
