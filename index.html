@@ -75,5 +75,51 @@
         </header>
         <router-view :class="{ dark: store.dark }"></router-view>
     </body>
+    <script>
+window.addEventListener("load", () => {
+  const search = document.createElement("input");
+  search.id = "levelSearch";
+  search.type = "text";
+  search.placeholder = "Search by level name...";
+
+  document.body.appendChild(search);
+
+  const style = document.createElement("style");
+  style.innerHTML = `
+    #levelSearch {
+      position: fixed !important;
+      top: 20px !important;
+      left: 50% !important;
+      transform: translateX(-50%) !important;
+      z-index: 99999 !important;
+
+      width: 340px !important;
+      padding: 14px 18px !important;
+      font-size: 15px !important;
+      color: #fff !important;
+
+      background: linear-gradient(180deg, #1c1f26, #0f1115) !important;
+      border: 1px solid #3a3f4b !important;
+      border-radius: 12px !important;
+      outline: none !important;
+
+      box-shadow:
+        0 0 0 1px rgba(255,255,255,0.05),
+        0 8px 30px rgba(0,0,0,0.6) !important;
+    }
+
+    #levelSearch::placeholder {
+      color: #9aa0aa !important;
+    }
+
+    #levelSearch:focus {
+      border-color: #7aa2ff !important;
+      box-shadow: 0 0 0 2px rgba(122,162,255,0.4) !important;
+    }
+  `;
+  document.head.appendChild(style);
+});
+</script>
+
     </html>
 
