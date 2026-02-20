@@ -77,7 +77,14 @@
     </body>
     <script>
 window.addEventListener("load", () => {
-  alert("Script is running");
+  const input = document.createElement("input");
+  input.placeholder = "Search by level name...";
+  input.style.position = "fixed";
+  input.style.top = "20px";
+  input.style.left = "20px";
+  input.style.zIndex = "9999";
+
+  document.body.appendChild(input);
 });
 </script>
     <script>
