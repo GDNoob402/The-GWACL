@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+          {
+            "user": "Puremidnight",
+            "link": "https://youtu.be/k-o_m2x_PXg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
