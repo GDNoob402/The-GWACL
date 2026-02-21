@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Enjoyment</div>
-                            <p>{{ level.enjoyment || 'Below Average' }}</p>
+                            <p>{{ level.enjoyment || 'Below Average', 'Average' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
