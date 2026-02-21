@@ -12,13 +12,13 @@
             "user": "Puremidnight",
             "link": "https://www.youtube.com/watch?v=NwUomPwJuVc",
             "percent": 100,
-            "hz": 60
+            "hz": 7
         },
            {
             "user": "GDNobrain",
             "link": "https://www.youtube.com/watch?v=wpmSluzS4k4",
             "percent": 100,
-            "hz": 240
+            "hz": None
         }
     ]
 }
