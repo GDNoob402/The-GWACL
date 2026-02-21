@@ -109,7 +109,7 @@ export default {
                         No innapropriate or nsfw levels & videos
                     </p>
                     <p>
-                        Make sure to show the attempt before the completion, and must have clicks
+                        No Spam only levels, invisible levels or slop levels, no levels that are already on the list (example, if you just copy a level then extend it or at a single click at the end)
                     </p>
                     <p>
                         You must state what fps you use
