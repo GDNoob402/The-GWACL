@@ -7,12 +7,13 @@
     "verification": "https://youtu.be/HR3POtWpbQM",
     "percentToQualify": "100",
     "password": "Free To Copy",
+    "enjoyment": "4",
     "records": [
           {
             "user": "GDNobrain",
             "link": "https://youtu.be/rVkV3CFutUs",
             "percent": 100,
-            "hz": 240
+            "hz": 0
         }
     ]
 }
