@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "6",
     "records": [
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/GN84e6cqjJc",
+            "percent": 100,
+            "hz": 7
+        }
     ]
 }
