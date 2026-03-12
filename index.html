@@ -76,6 +76,31 @@
         <router-view :class="{ dark: store.dark }"></router-view>
     </body>
     </html>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+  font-family: Arial;
+}
+
+#searchBar{
+  padding:10px;
+  width:250px;
+  margin-bottom:20px;
+  border-radius:8px;
+  border:1px solid #555;
+}
+
+.level{
+  padding:10px;
+  margin:6px 0;
+  background:#3b63e6;
+  color:white;
+  width:220px;
+  border-radius:10px;
+  text-align:center;
+}
 </style>
 </head>
 
@@ -93,7 +118,7 @@ function searchLevels() {
     let name = levels[i].textContent.toLowerCase();
 
     if (name.includes(input)) {
-      levels[i].style.display = "";
+      levels[i].style.display = "block";
     } else {
       levels[i].style.display = "none";
     }
