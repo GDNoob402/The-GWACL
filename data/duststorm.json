@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "enjoyment": "0",
     "records": [
+          {
+            "user": "Shafikdabest",
+            "link": "https://youtu.be/L_QK16lIZ1o",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
