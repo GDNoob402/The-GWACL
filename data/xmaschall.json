@@ -20,6 +20,12 @@
             "link": "https://www.youtube.com/watch?v=OMcrdHN8dtI",
             "percent": 100,
             "hz": 6
+                    },
+                     {
+            "user": "Blitzated",
+            "link": "https://youtu.be/uh8qp1RLecg",
+            "percent": 100,
+            "hz": 0
         }
     ]
 }
