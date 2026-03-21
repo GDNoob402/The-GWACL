@@ -7,7 +7,19 @@
     "verification": "https://www.youtube.com/watch?v=TbejMLrGBnY",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "0",
+    "enjoyment": "3",
     "records": [
+                          {
+            "user": "Blitzated",
+            "link": "https://youtu.be/Fise-0a4agI",
+            "percent": 100,
+            "hz": 0
+                     },
+              {
+            "user": "Absoluteinfinity1",
+            "link": "https://youtu.be/Ki4BQU197Os?si=lcrkkPQhYISHi5u-",
+            "percent": 100,
+            "hz": 0
+       }
     ]
 }
