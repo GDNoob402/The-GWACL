@@ -9,11 +9,17 @@
     "password": "Free To Copy",
     "enjoyment": "0",
     "records": [
+                     {
+            "user": "Absoluteinfinity1",
+            "link": "https://youtu.be/vF9-ooBUoRo?si=Yjp73SqbdRYLM2JF",
+            "percent": 100,
+            "hz": 0
+                     },
                       {
             "user": "Excessity",
             "link": "https://www.youtube.com/watch?v=qxdsgqYEVeI&lc=Ugz3V6-CtaLkOlGIaVx4AaABAg.AUcxbbjh-JsAUcy94OyCPs",
             "percent": 100,
-            "hz": 0   
+            "hz": 0 
         } 
     ]
 }
