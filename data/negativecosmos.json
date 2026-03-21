@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "0",
     "records": [
+                   {
+            "user": "Absoluteinfinity1",
+            "link": "https://youtu.be/kUOw7Fln6qA?si=GI5L1qqxQbLaaXx5",
+            "percent": 100,
+            "hz": 3
+       }
     ]
 }
