@@ -1,0 +1,26 @@
+{
+    "id": 136253492,
+    "name": "Eskoli something",
+    "author": "Jumbotony18YT",
+    "creators": [1],
+    "verifier": "Jumbotony18YT",
+    "verification": "https://youtu.be/4Ch7RK9BvxY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "enjoyment": "3",
+    "records": [
+                {
+            "user": "Absoluteinfinity1",
+            "link": "https://youtu.be/BVUYrw8KWME?si=MSQt6F8pnYucUvCa",
+            "percent": 100,
+            "hz": 0
+                },
+          {
+            "user": "Excessity",
+            "link": "https://www.youtube.com/watch?v=uqf4tVQzrHM",
+            "percent": 100,
+            "hz": 0
+      
+        }
+    ]
+}
