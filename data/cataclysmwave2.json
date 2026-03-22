@@ -9,5 +9,12 @@
     "password": "Free To Copy",
     "enjoyment": "9",
     "records": [
+                             {
+            "user": "Excessity",
+            "link": "https://www.youtube.com/watch?v=uqf4tVQzrHM",
+            "percent": 100,
+            "hz": 0
+       }
+
     ]
 }
