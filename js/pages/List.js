@@ -109,7 +109,7 @@ export default {
                         No innapropriate or nsfw levels & videos
                     </p>
                     <p>
-                        No Spam only levels, invisible levels or slop levels, no levels that are already on the list (example, if you just copy a level then extend it or at a single click at the end)
+                        Level must have some deco/effort put into it as of 23/03/2026 australian
                     </p>
                     <p>
                         You must state what enjoyment
