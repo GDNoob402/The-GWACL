@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "8",
     "records": [
+           {
+            "user": "Shafikdabest",
+            "link": "https://www.youtube.com/live/txkPAulP5Ko?si=PvxafC2cSN8E21gz",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
