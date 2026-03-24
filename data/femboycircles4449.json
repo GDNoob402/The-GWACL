@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "8",
     "records": [
+         {
+            "user": "Blitzard",
+            "link": "https://www.youtube.com/watch?v=9Yn87mX9jV0",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
