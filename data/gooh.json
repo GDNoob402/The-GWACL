@@ -31,7 +31,13 @@
             "user": "Absoluteinfinity1",
             "link": "https://youtu.be/jiFx9TyPXic?si=f0dcLSPfx2hsweZe",
             "percent": 100,
-            "hz": 0    
+            "hz": 0   
+                  },
+                                 {
+            "user": "baguette",
+            "link": "https://www.youtube.com/watch?v=h1Kvngnd1Lc",
+            "percent": 100,
+            "hz": 0 
         }
     ]
 }
