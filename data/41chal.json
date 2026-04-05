@@ -38,7 +38,13 @@
             "link": "https://www.youtube.com/watch?v=h1Kvngnd1Lc",
             "percent": 100,
             "hz": 0 
-       }
+       },
+           {
+            "user": "That Cool Gamer",
+            "link": "https://youtu.be/cI92lWSMUxs",
+            "percent": 100,
+            "hz": 0
+               }
     ]
 }
 
