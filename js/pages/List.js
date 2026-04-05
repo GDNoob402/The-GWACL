@@ -124,7 +124,7 @@ export default {
                         Level has to be possible under 10cps
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off then afterwards we never accept records for said level
+                        Must be able to hear clicks
                     </p>
                 </div>
             </div>
