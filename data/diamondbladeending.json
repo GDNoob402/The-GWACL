@@ -32,6 +32,12 @@
             "link": "https://www.youtube.com/watch?v=CKH4nb2N3Pc&lc=Ugz4bJWBAtqKarOLZId4AaABAg.AVKLMYvT3ZTAVK_Ydu1c4x",
             "percent": 100,
             "hz": 0  
+                          },
+         {
+            "user": "Rayco",
+            "link": "https://www.youtube.com/watch?v=W3DN1JCTiQ8",
+            "percent": 100,
+            "hz": 10
         }
     ]
 }
