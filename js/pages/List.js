@@ -124,6 +124,9 @@ export default {
                         Level has to be possible under 10cps
                     </p>
                     <p>
+                        Noclip is allowed in completion as long as you have a 0 death or accuracy completion must show accuracy/death lable
+                    </p>
+                    <p>
                         Must be able to hear clicks
                     </p>
                 </div>
