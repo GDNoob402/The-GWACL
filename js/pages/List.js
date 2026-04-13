@@ -121,7 +121,7 @@ export default {
                         If you beat one part of a level you can cut the rest of that level off and leave it as a challenge that is verified, same goes with beating that part of the level, like a challenge swap
                     </p>
                     <p>
-                        Level has to be possible under 10cps
+                        Level has to be possible in under 15cps
                     </p>
                     <p>
                         Noclip is allowed in completion as long as you have a 0 death or accuracy completion must show accuracy/death lable
