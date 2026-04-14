@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Rayco",
+            "link": "https://youtu.be/EsWr-VIZ-vY",
+            "percent": 100,
+            "hz": 3
+         }
     ]
 }
