@@ -31,6 +31,12 @@
             "user": "Excessity",
             "link": "https://www.youtube.com/watch?v=PR2eoZaDdrw",
             "percent": 100,
+            "hz": 0        
+                           },
+        {
+            "user": "Rayco",
+            "link": "https://youtu.be/VMo9kLV3hes",
+            "percent": 100,
             "hz": 0
         }
     ]
