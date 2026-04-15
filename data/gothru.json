@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "2",
     "records": [
+         {
+            "user": "Rayco",
+            "link": "https://youtu.be/Vji-1MSmMHA",
+            "percent": 100,
+            "hz": 8
+         }
     ]
 }
