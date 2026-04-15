@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=zIEn_1jZEUI",
             "percent": 100,
             "hz": 0
+              },
+        {
+            "user": "Rayco",
+            "link": "https://youtu.be/Vji-1MSmMHA",
+            "percent": 100,
+            "hz": 1
         }
     ]
 }
