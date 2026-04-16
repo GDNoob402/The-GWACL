@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "8",
     "records": [
+         {
+            "user": "Elliotyes",
+            "link": "https://www.youtube.com/shorts/s1cqXd9-Uww",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }
