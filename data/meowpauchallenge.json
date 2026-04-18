@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "0",
     "records": [
+          {
+            "user": "pixelfactorial",
+            "link": "https://youtu.be/8Gxkp3iO0nY",
+            "percent": 100,
+            "hz": 0
+          }
     ]
 }
