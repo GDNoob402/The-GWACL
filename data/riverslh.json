@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "6",
     "records": [
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1468169665158053975/1494948777591574638/1494950826572120084",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
