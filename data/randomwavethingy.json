@@ -50,12 +50,18 @@
             "link": "https://youtu.be/MNb5hc77dWE",
             "percent": 100,
             "hz": 3
+                              },
+         {
+            "user": "keswift",
+            "link": "https://youtu.be/DKxnLEkMWT8?si=mcrBAovr5MXNYCsT",
+            "percent": 100,
+            "hz": 0
               },
         {
             "user": "tFluffy",
             "link": "https://discord.com/channels/1468169665158053975/1494957455694762004/1494957455694762004",
             "percent": 100,
             "hz": 0
-            }    
+        }    
     ]
 }
