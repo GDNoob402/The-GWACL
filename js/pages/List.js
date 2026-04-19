@@ -112,7 +112,7 @@ export default {
                         Level must have some deco/effort put into it as of 23/03/2026 australian
                     </p>
                     <p>
-                        You must state what enjoyment
+                        Spam is allowed it has to be alternating though
                     </p>
                     <p>
                         No secret ways
