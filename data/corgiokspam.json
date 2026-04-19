@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "0",
     "records": [
+         {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1468169665158053975/1495312875378577581/1495312875378577581",
+            "percent": 100,
+            "hz": 0
+           }
     ]
 }
