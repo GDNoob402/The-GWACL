@@ -129,6 +129,8 @@ export default {
                     <p>
                         Must be able to hear clicks
                     </p>
+                     <p>
+                        Has to be latest gd version at the time of verification/completion
                 </div>
             </div>
         </main>
