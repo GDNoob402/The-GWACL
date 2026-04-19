@@ -3,11 +3,17 @@
     "name": "lalalalalalA",
     "author": "Meowpau",
     "creators": [1],
-    "verifier": "tFluffy",
-    "verification": "https://www.youtube.com/watch?v=GNahmVV_RUk",
+    "verifier": "pixelfactorial",
+    "verification": "https://discord.com/channels/1468169665158053975/1495334912872546385/1495334912872546385",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "enjoyment": "0",
     "records": [
+        {
+            "user": "tFluffy",
+            "link": "https://www.youtube.com/watch?v=GNahmVV_RUk",
+            "percent": 100,
+            "hz": 0
+            }
     ]
 }
