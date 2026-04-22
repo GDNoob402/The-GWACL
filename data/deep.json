@@ -68,6 +68,12 @@
             "link": "https://youtube.com/live/WQJjzrrXr4U?feature=share",
             "percent": 100,
             "hz": 0
+            },
+        {
+            "user": "Fyre",
+            "link": "https://www.youtube.com/watch?v=3ckchnkVUzU",
+            "percent": 100,
+            "hz": 0
         }    
     ]
 }
