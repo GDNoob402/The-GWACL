@@ -10,18 +10,18 @@
         "link": "https://www.youtube.com/@Shafikdabestv1"
     },
     {
-        "role": "admin",
-        "name": "GDNobrain",
-        "link": "https://www.youtube.com/@GDNobrain"
-    },
+        "role": "trial",
+        "name": "PixelFactorial",
+        "link": "https://www.youtube.com/@pixelfactorial"
+        },
     {
         "role": "trial",
-        "name": "Excessity",
-        "link": "https://www.youtube.com/@Excessity7584"
+        "name": "AngoPR",
+        "link": "https://www.youtube.com/@angoPR1"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "None",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
